@@ -1,0 +1,2 @@
+# spring-vaadin
+vaadin project
