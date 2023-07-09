@@ -1,0 +1,16 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/home/hermann90/vaadin_projects/my-app",
+  "node.version": "v18.16.1",
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "/home/hermann90/vaadin_projects/my-app/frontend",
+  "connect.javaSourceFolder": "/home/hermann90/vaadin_projects/my-app/src/main/java",
+  "javaResourceFolder": "/home/hermann90/vaadin_projects/my-app/src/main/resources",
+  "connect.applicationProperties": "/home/hermann90/vaadin_projects/my-app/src/main/resources/application.properties",
+  "connect.openApiFile": "/home/hermann90/vaadin_projects/my-app/target/generated-resources/openapi.json",
+  "project.frontend.generated": "/home/hermann90/vaadin_projects/my-app/frontend/generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}
